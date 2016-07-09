@@ -26,3 +26,5 @@ main = printChart 100 stats
 ```
 
 ![](demo.png)
+
+Respect to <https://github.com/morishin/ascii-horizontal-barchart>
